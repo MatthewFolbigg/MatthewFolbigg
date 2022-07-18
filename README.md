@@ -1,9 +1,9 @@
 ### Hello 👋
 
 - 📱 I'm a self taught iOS Developer
-- 🌱 I’m currently learning SwiftUI and Async Await
+- 🌱 I’m currently learning SwiftUI, Async Await, and Vapor
 - 🔭 I’m currently working on a personal Discord bot with Node.js running on a Raspberry Pi
-- 🟨 Dabbling in Playdate game development
+- 🟨 Dabbling in Playdate game development 
 
 <!--
 **MatthewFolbigg/MatthewFolbigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
