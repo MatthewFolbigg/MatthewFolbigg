@@ -1,9 +1,6 @@
-### Hello 👋
+<img src="https://github.com/user-attachments/assets/3149c0ce-8587-4773-9024-2acd30d9942e" width="100">
 
-- 📱 I'm a self taught iOS Developer
-- 🌱 I’m currently learning SwiftUI, Async Await, and Vapor
-- 🔭 I’m currently working on a personal Discord bot with Node.js running on a Raspberry Pi
-- 🟨 Dabbling in Playdate game development 
+📱 I'm the developer of [Departing Earth](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/gb/app/departing-earth-spaceflight/id1641494756&ved=2ahUKEwjQ957815WKAxUQVEEAHfDLNlgQFnoECBkQAQ&usg=AOvVaw20_Fn9G7HvgKcz5QfkGvZr). A SwiftUI iOS app, soon to have it's own Swift Vapor backend.
 
 <!--
 **MatthewFolbigg/MatthewFolbigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
